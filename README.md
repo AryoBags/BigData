@@ -82,7 +82,7 @@ https://github.com/AryoBags/BigData/blob/061f63f4465c8ab5fa1ebc02dd86d426b76c160
 4. repartition : digunakan untuk mengubah jumlah partisi RDD menjadi jumlah yang baru tanpa mengubah nilai-nilai pada RDD.
 5. coalesce :digunakan untuk mengurangi jumlah partisi RDD menjadi jumlah yang baru tanpa melakukan shuffle data secara besar-besaran.
 6. toDebugString : digunakan untuk mencetak informasi debug terkait partisi RDD, seperti lokasi partisi, ukuran partisi.
-<h2> 6.WOrd Count </h2>
+<h2> 6.Word Count </h2>
 <h3>code</h3>
 https://github.com/AryoBags/BigData/blob/061f63f4465c8ab5fa1ebc02dd86d426b76c160c/WordCount.py#L1-L8
 <h3>Hasil</h3>
